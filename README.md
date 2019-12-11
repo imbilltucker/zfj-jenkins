@@ -18,8 +18,8 @@
 # under the License.
 #
 -->
-##Zephyr For JIRA connector for Jenkins (zfj-jenkins)
-###About the Plugin
+## Zephyr For JIRA connector for Jenkins (zfj-jenkins)
+### About the Plugin
 
 
 Please refer to Zephyr Support <a href="https://wiki.jenkins.io/display/JENKINS/Zephyr+For+Jira+Test+Management+Plugin">Knowledge Base</a>
